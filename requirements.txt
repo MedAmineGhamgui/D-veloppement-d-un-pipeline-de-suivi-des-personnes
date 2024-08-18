@@ -1,0 +1,32 @@
+
+ultralytics
+
+gdown
+Cython
+super_gradients==3.1.2
+filterpy==1.4.5
+lap==0.4.0
+scipy==1.9.3 # supergradients installs
+torch
+torchvision
+torchaudio
+matplotlib
+psutil==5.9.2
+pillow
+fastcore
+
+opencv-python>=4.6.0
+pandas>=1.1.4   
+numpy==1.23.0
+
+# Export ----------------------------------------------------------------------
+
+# onnx==1.13.0                 # ONNX export
+# onnx-simplifier==0.4.36      # ONNX simplifier
+# onnxruntime===1.13.1
+# pycocotools==2.0.6
+# onnxruntime-gpu       # ONNX RUNTIME
+# nvidia-pyindex        # TensorRT export
+# nvidia-tensorrt       # TensorRT export
+# #openvino-dev>=2022.3  # OpenVINO export
+# #onnx2tf>=1.10.0       # TFLite export
